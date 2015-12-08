@@ -1,0 +1,10 @@
+{
+  "name": "michielverkoijen/amazon-s3-gallery",
+  "type": "wordpress-plugin",
+  "license": "GPLv2",
+  "description": "A WordPress plugin that automatically shows any S3 bucket as a gallery.",
+  "keywords": ["plugin", "amazon", "aws", "S3"],
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
